@@ -1,0 +1,99 @@
+第一章：（31）
+沈兆敏.我国柑橘生产现状及未来发展预测[J].果农之友,2019(02):1-4.
+
+韩安太，何勇，陈志强，沈小丽，韩瑞珍. 基于无线传感器网络的茶园分布式灌溉控制系统[J]. 农业机械学报,2011,42(09):173-180.  
+
+张林，吴普特，范兴科. 多点源滴灌条件下土壤水分运动的数值模拟[J]. 农业工程学报，2010，26(09):40-45. 
+
+Presser M，Barnaghi P M，Eurich M，Villalonga C.The SENSEI project:Integrating the physical world with the digital world of the network of the future[J].Global Communi-cations Newsletter，2009，47 （4）:1-4 
+
+Song X, Wang C, Gao J, et al. DLRDG: distributed linear regression-based hierarchical data gathering framework in wireless sensor network[J]. Neural Computing & Applications, 2013, 23(7-8SI): 1999-2013.
+
+赵蓉英,亓永康,王旭.物联网纵横:我国物联网研究进展与态势[J].智能物联技术,2019,51(01):1-11.
+
+张承林. 微灌施肥技术在华南果园中的应用[Z]. 灌溉施肥网, 2010.
+刘强,崔莉,陈海明.物联网关键技术与应用[J].计算机科学,2010,37(06):1-4+10.
+张瑞瑞, 赵春江, 陈立平, 等. 农田信息采集无线传感器网络节点设计[J]. 农业工程学报, 2009, 25(11):213-218.
+田金萍.人工智能发展综述[J].科技广场,2007(01):230-232.
+Hinton G E, Osindero S, Teh Y W. A fast learning algorithm for deep belief nets.[J]. Neural Computation, 2006, 18(7):1527-1554.
+
+Krizhevsky A , Sutskever I , Hinton G . ImageNet Classification with Deep Convolutional Neural Networks[J]. Advances in neural information processing systems, 2012, 25(2).
+
+Simonyan, Karen, and Andrew Zisserman. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556 (2014)
+
+He K, Zhang X, Ren S, et al. Deep Residual Learning for Image Recognition[J]. 2015.
+
+Mikolov T , Chen K , Corrado G , et al. Efficient Estimation of Word Representations in Vector Space[J]. Computer Science, 2013.
+
+Bojanowski P , Grave E , Joulin A , et al. Enriching Word Vectors with Subword Information[J]. 2016.
+
+
+彭棉珠.人工智能的研究进展和应用概述[J].科技广场,2017(10):110-113.
+
+王文娥,汪志农,马孝义.农业专家系统及其在灌溉管理中的应用[J].计算机与农业,2000(08):5-7.
+
+Zhan Jiafang, Song Zhiwen, Li Fengju, et al. Enlightenment of the development of agricultural facilities in Japan, the Netherlands and Israel to China[J]. Tianjin Agricultural Sciences, 2011, 17(06): 97-101.
+黄朝圣, 姚树新, 陈卫泽. 浅谈专家系统现状与开发[J]. 信息安全与技术, 2013, (02): 71-74.
+王新忠,顾开新,刘飞.基于无线传感器网络的丘陵果园灌溉控制系统[J].排灌机械工程学报,2011,29(04):364-368.
+
+
+孙道宗,王卫星,唐劲驰,姜晟.基于无线传感器网络的茶树田间参数自动采集系统[J].广东农业科学,2014,41(16):165-171.
+
+张观山，束怀瑞，高东升，侯加林. 基于ZigBee和GPRS的远程果园智能灌溉系统的设计与实现[J].山东农业大学学报(自然科学版)，2012，43(03):377-380.
+
+Maione B, Viani F, Filippi E, et, al. Wireless sensor network deployment for monitoring soil moisture dynamics at the field scale[J]. procedia Environmental Sciences, 2013, 19:426-435.
+
+王卫星,陈华强,姜晟,铁风莲,孙宝霞,余杰平.基于低功耗的发射功率自适应水稻田WSN监测系统[J].农业机械学报,2018,49(03):150-157.
+
+Heinemann A B, Hoogenboom G, de Faria R T. Detemmination of spatial water requirements at county and regional levels using crop models and GIS[J]. Agricultural Water Management, 2002, 52(3):177-196.
+
+郑立华，李民赞，冀荣华，叶海建，吴才聪，张俊宁. 基于GIS的农田土壤水分状况管理模型及应用[J].农业工程学报，2009,25(S2):13-17.
+
+虞佳佳. 基于物联网和专家决策系统的农田精准灌溉系统[J].轻工机械，2014,32(01):58-60+64.
+
+余国雄, 王卫星, 谢家兴, 等. 基于物联网的荔枝园信息获取与智能灌溉专家决策系统[J]. 农业工程学报, 2016, 32(20):144-152.
+
+陈鸿,梁芳,李玉香,齐宝强.人工智能在农业现代化中的应用研究[J].中外企业家,2018(29):145.
+
+梁雪松,田浩.基于中文自然语言理解的农业信息自动回答系统[J].信息与电脑(理论版),2010(03):13-14.
+
+王栋,冀汶莉.基于农业NLP交互物联网服务框架设计与应用平台实现[J].信息与电脑(理论版),2018(14):74-77.
+
+第二章（5）
+
+任丰原,黄海宁,林闯.无线传感器网络[J].软件学报,2003(07):1282-1291.
+
+
+谢远玉，赖晓桦，陈颖，郭萌生，赖华荣，严翔. 柑橘果实生长与生态气象条件的关系[J].华中农业大学学报,2009,28(02):222-225.
+
+金初豁，张云贵，吴学良，金兰.四川柑桔灌溉期及灌水指标[J].西南农业大学学报，1991(01):60-63.
+
+金初豁.柑桔需水指标研究初报[J].四川农业学报,1988(02):16-19.
+
+邹战强.喷灌柑桔需水量和需水规律的研究[J].喷灌技术,1996(02):7-11.
+
+第三章
+
+Adamchuk V I, Hummel J W, Morgan M T, et al. On-the-go soil sensors for precision agriculture[J]. Computers and Electronics in Agriculture, 2004, 44(1): 71-91.
+
+Zhang Qian, Yang Xianglong, Zhou Yiming, et al. A wireless solution for greenhouse monitoring and control system based on ZigBee technology[J]. Journal of Zhejiang University Science A, 2007, 8(10):1584-1587.
+
+第四章
+黄源.柑橘黄龙病发病规律及防控关键技术要点[J].南方农业,2018,12(15):64-65.
+刘绍增.柑橘黄龙病的主要症状与预防措施[J].南方农业,2017,11(05):22-23.
+
+钱开胜,粟剑辉.柑橘苗疫病的发生诊断与防治建议[J].植保技术与推广,2002(07):26-27.
+
+张茜,易图永,秦姣华.柑橘树脂病症状及防治措施[J].吉林农业,2018(24):76.
+
+苏坚任.柑橘溃疡病的综合防治分析与研究[J].农业与技术,2018,38(01):85-86.
+
+侯欣. 中国柑橘疮痂病菌的种类和变异研究[D].浙江大学,2013.
+
+王兴红,陈国庆,王卫芳,李红叶.柑橘黑斑病(Citrus Black Spot)发生危害现状和研究进展[J].果树学报,2011,28(04):674-679.
+
+沈兆敏,谭岗.柑橘黑斑病的发生及其防治技术[J].科学种养,2012(06):34.
+
+
+
+
